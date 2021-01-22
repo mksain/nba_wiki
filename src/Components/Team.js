@@ -1,11 +1,9 @@
 import React, { useEffect, useState } from "react";
-import axios from "axios";
 import Posts from "./Posts"
 const Team = () => {
     const [posts, setPosts] = useState([]);
     const [loading, setLoading] = useState([false]);
-    const [currentPage, setCurrentPage] = useState([1]);
-    const [postsPerPage, setPostsPerPage] = useState([10]);
+   
 
     useEffect(() => {
         const fetchPosts = async () => {

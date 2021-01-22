@@ -29,7 +29,7 @@ function App() {
               </div>
             </div>
             <div className="col px-0">
-              <div class="d-grid gap-2">
+              <div className="d-grid gap-2">
                 <Link className={myclass2} to="/games" role="button" onClick={() => {
                     setmyclass("game");
                     setmyclass2("team");

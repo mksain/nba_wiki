@@ -26,7 +26,7 @@ const Posts = ({ posts, loading }) => {
 
   return <div className="d-flex" style={{ flexFlow: "wrap" }}>
     {posts.map(post => (
-      <div>
+      <div key={post.id}>
 
         <Tippy content={<Tooltips />} placement="right">
           <div className="card mt-1 border-0" style={{ width: 250, height: 100, }} onMouseOver={() => {
@@ -34,7 +34,7 @@ const Posts = ({ posts, loading }) => {
             setCity(post.city);
             setConference(post.conference);
             setDivision(post.division);
-            <div><h1>{console.log(post.id)}</h1></div>
+           
           }}>
             <div className="card-body">
               {/* <h5 className="card-title">Card title</h5>
