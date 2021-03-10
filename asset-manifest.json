@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/nba_wiki/static/css/main.32075aa9.chunk.css",
+    "main.js": "/nba_wiki/static/js/main.c3441505.chunk.js",
+    "main.js.map": "/nba_wiki/static/js/main.c3441505.chunk.js.map",
+    "runtime-main.js": "/nba_wiki/static/js/runtime-main.3f027ddd.js",
+    "runtime-main.js.map": "/nba_wiki/static/js/runtime-main.3f027ddd.js.map",
+    "static/css/2.a94b6df7.chunk.css": "/nba_wiki/static/css/2.a94b6df7.chunk.css",
+    "static/js/2.82cbac02.chunk.js": "/nba_wiki/static/js/2.82cbac02.chunk.js",
+    "static/js/2.82cbac02.chunk.js.map": "/nba_wiki/static/js/2.82cbac02.chunk.js.map",
+    "static/js/3.9b7d2b08.chunk.js": "/nba_wiki/static/js/3.9b7d2b08.chunk.js",
+    "static/js/3.9b7d2b08.chunk.js.map": "/nba_wiki/static/js/3.9b7d2b08.chunk.js.map",
+    "index.html": "/nba_wiki/index.html",
+    "static/css/2.a94b6df7.chunk.css.map": "/nba_wiki/static/css/2.a94b6df7.chunk.css.map",
+    "static/css/main.32075aa9.chunk.css.map": "/nba_wiki/static/css/main.32075aa9.chunk.css.map",
+    "static/js/2.82cbac02.chunk.js.LICENSE.txt": "/nba_wiki/static/js/2.82cbac02.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f027ddd.js",
+    "static/css/2.a94b6df7.chunk.css",
+    "static/js/2.82cbac02.chunk.js",
+    "static/css/main.32075aa9.chunk.css",
+    "static/js/main.c3441505.chunk.js"
+  ]
+}
